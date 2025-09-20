@@ -30,7 +30,7 @@ This is my personal guide to using GitHub to help me remember how to put my proj
 
 💾 4. Saving Progress (Commits)
 
-- A commit = a “save point” for your project.
+- A commit is bascially a “save point” for your project.
 - Always write a short message about what you changed.
 - Example: “Added counter to the game”.
 - Commits build a history of your project.
